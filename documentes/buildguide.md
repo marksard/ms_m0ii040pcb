@@ -41,6 +41,8 @@ If you purchased the Treadstone layout, please change the layout below.
 
 Treadstoneレイアウトをご購入の場合は以下からレイアウトを変更してください。  
 
+![スクリーンショット 2023-03-20 232012](https://user-images.githubusercontent.com/38324387/226368667-9098d496-a22b-426f-9da2-35a410a56275.png)
+
 ## Firmware binary file
 
 You can update the firmware by accessing the following URL.  
