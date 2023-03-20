@@ -37,6 +37,10 @@ You can change the keymap by accessing the following URL.
 
 [remap](https://remap-keys.app/)
 
+If you purchased the Treadstone layout, please change the layout below.  
+
+Treadstoneレイアウトをご購入の場合は以下からレイアウトを変更してください。  
+
 ## Firmware binary file
 
 You can update the firmware by accessing the following URL.  
