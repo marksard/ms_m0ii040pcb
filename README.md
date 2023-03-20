@@ -1,6 +1,7 @@
 # m0ii040 PCB
 
-ms_m0ii040PCB is a dedicated PCB for m0ii040 produced by [yohewi](https://github.com/yohewi).
+ms_m0ii040PCB is a dedicated PCB for m0ii040 produced by [yohewi](https://github.com/yohewi).  
+This keyboard has two different PCBs with different layouts.  
 
 # Completed example
 Row staggered layout  
