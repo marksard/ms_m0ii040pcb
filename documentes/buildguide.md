@@ -14,6 +14,7 @@
 
 |no|name|qty|description|
 |:--|:--|:--|:--|
+|-|M0ii0 Case|1|-|
 |-|MX Switches|39 or 40|As you like (Treadstone layout is use 39)|
 |-|Keycap set|-|As you like|
 |-|Screw-in Stabies|2|As you like|
