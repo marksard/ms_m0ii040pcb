@@ -1,6 +1,6 @@
 # Build guide (ビルドガイド)
 
-## The kit includes
+## The kit includes (キット内容)
 
 |no|name|qty|description|
 |:--|:--|:--|:--|
@@ -10,7 +10,7 @@
 |MSW2|TVBP06-B043CB|1|MCU Boot0 Switch|
 |-|CPG15*|40|Kailh Switch Socket|
 
-## What needs to be purchased separately (choose your favorite)
+## What needs to be purchased separately (choose your favorite) (キットに含まれません)
 
 |no|name|qty|description|
 |:--|:--|:--|:--|
@@ -79,13 +79,13 @@ Usually it will not be necessary to do so.
 
 ## Bootloader Mode
 
-### Method 1
+### Method 1 (方法その1)
 
 While pressing down the Escape key, connect to the PC.  
 Escapeキーを押下しながら、PCと接続します。  
 
 
-### Method 2
+### Method 2 (方法その2)
 
 Connect the keyboard to the PC and operate the tact switch attached to the keyboard in the following order:
 
