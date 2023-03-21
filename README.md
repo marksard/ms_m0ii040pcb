@@ -8,7 +8,7 @@ Row staggered layout
 ![Row staggered layout](https://user-images.githubusercontent.com/38324387/223320590-b9968f6c-f968-45e6-b936-463314d307b8.jpg)
 
 Treadstone layout  
-![Treadstone layout](https://user-images.githubusercontent.com/38324387/226288131-79cc7732-7595-455d-aab1-5a6c785ed61a.jpg)
+![Row staggered layout](https://user-images.githubusercontent.com/38324387/226564001-991301bf-5460-47cf-a80c-fa6eacca06e4.jpg)
 
 
 # Layout
@@ -22,3 +22,7 @@ Treadstone layout
 
 QMK Firmware  
 https://github.com/marksard/qmk_firmware/tree/own_build/keyboards/marksard/m0ii040pcb
+
+# Build guide
+
+https://github.com/marksard/ms_m0ii040pcb/blob/main/documentes/buildguide.md
