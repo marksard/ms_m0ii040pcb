@@ -13,20 +13,37 @@
 ## Installation
 
 1. Place the two tact switches (TVBP06-B043CB) on the side marked NRST and BOOT0 on the PCB and solder them together.
-1. Insert the switches into the plate.
-1. Overlap the plate with the switch and the PCB.
-1. Carefully attach the socket to the pins of the switch coming out of the holes in the PCB. Make sure they are facing the right way.
-1. Solder the socket to the PCB.
-1. Connect to the PC and confirm that it is recognized.
+2. Insert the switches into the plate. The position of the red frame is installed by rotating the switch.
+3. Install the screw-in stabilizer.Install the wire so that it is positioned at the back.
+4. Overlap the plate with the switch and the PCB.
+5. Carefully attach the socket to the pins of the switch coming out of the holes in the PCB. Make sure they are facing the right way.
+6. Solder the socket to the PCB.
+7. Connect to the PC and confirm that it is recognized.
 
 ---
 
 1. ２つのタクトスイッチ（TVBP06-B043CB）をPCBのNRST、BOOT0と書かれたほうに載せて、ハンダ付けしてください。
-1. プレートにスイッチを差し込みます。
+1. プレートにスイッチを差し込みます。赤い枠の位置はスイッチを回転して取り付けます。
+1. スクリューインスタビライザーを取り付けます。ワイヤーが奥に位置するように取り付けます。
 1. スイッチをつけたプレートとPCBを重ねてください。
 1. PCBの穴から出ているスイッチのピンに、注意深くソケットを取り付けます。向きを間違えないようにしてください。
 1. ソケットとPCBをハンダ付けしてください。
 1. PCと接続し、認識されることを確認してください。
+
+---
+
+*1.*  
+![IMGP8188](https://user-images.githubusercontent.com/38324387/226540271-5ee768b5-dc0c-42b9-a1a4-333f33e1a05b.JPG)
+
+*2.*  
+![IMGP8192](https://user-images.githubusercontent.com/38324387/226543169-7d9786df-c998-47b1-841e-feb3e934f89f.JPG)
+
+*3.*  
+![IMGP8206](https://user-images.githubusercontent.com/38324387/226543202-dc2c6fc3-7a5b-4ec4-b689-c86b72224709.JPG)
+
+*5.*  
+![IMGP8185](https://user-images.githubusercontent.com/38324387/226543287-c17ea7c9-2386-49b7-aaf2-8f0f4c899f80.JPG)
+
 
 ## Edit the keymap
 
@@ -51,6 +68,26 @@ Usually it will not be necessary to do so.
 以下のURLにアクセスし、最新のファームウェアをアップデート出来ます。通常はそれを行う必要はないでしょう。  
 
 [firmware](https://remap-keys.app/catalog/AheP3WR8nb6M6Bj3pq9Q/firmware)
+
+## Bootloader Mode
+
+### Method 1
+
+While pressing down the Escape key, connect to the PC.  
+Escapeキーを押下しながら、PCと接続します。  
+
+
+### Method 2
+
+Connect the keyboard to the PC and operate the tact switch attached to the keyboard in the following order:
+
+1. Hold down the BOOT0 button and press the NRST button.  
+2. Release the NRST button, then release the BOOT0 button.  
+
+ＰＣにキーボードを接続し、キーボードに取り付けたタクトスイッチを以下の順に操作します。
+
+1. BOOT0ボタンを押したまま、NRSTボタンを押します。
+2. NRSTボタンを離してから、BOOT0ボタンを離します。
 
 ## If you need help
 
