@@ -2,13 +2,21 @@
 
 ## The kit includes
 
-|no|name|qty|discription|
+|no|name|qty|description|
 |:--|:--|:--|:--|
 |-|M0ii040 PCB|1|The keyboard PC|
 |-|M0ii040 Plate|1|FR4 Switch Plate|
 |MSW1|TVBP06-B043CB|1|MCU Reset Switch|
 |MSW2|TVBP06-B043CB|1|MCU Boot0 Switch|
 |-|CPG15*|40|Kailh Switch Socket|
+
+## What needs to be purchased separately (choose your favorite)
+
+|no|name|qty|description|
+|:--|:--|:--|:--|
+|-|MX Switches|39 or 40|As you like (Treadstone layout is use 39)|
+|-|Keycap set|-|As you like|
+|-|Screw-in Stabies|2|As you like|
 
 ## Installation
 
