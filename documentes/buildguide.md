@@ -4,7 +4,7 @@
 
 |no|name|qty|description|
 |:--|:--|:--|:--|
-|-|M0ii040 PCB|1|The keyboard PC|
+|-|M0ii040 PCB|1|The keyboard PCB|
 |-|M0ii040 Plate|1|FR4 Switch Plate|
 |MSW1|TVBP06-B043CB|1|MCU Reset Switch|
 |MSW2|TVBP06-B043CB|1|MCU Boot0 Switch|
